@@ -7,4 +7,4 @@ You must download the necessary libraries folder:
 1. extra
 2. lib
 
-In order for the simple index.html to work.
+In order for the (simple/index.html) to work.
