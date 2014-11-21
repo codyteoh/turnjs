@@ -1,5 +1,6 @@
 turnjs
 ======
+<a href = "http://www.codyteoh.com/turnjs/tutorial/simple/">Demo</a><br>
 
 A beginner learning turnjs, turn it into a tutorial and share with awesome people
 
